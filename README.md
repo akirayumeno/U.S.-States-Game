@@ -22,7 +22,7 @@ U.S. States Game is an interactive quiz game built with Python and the `turtle` 
 
 ## Installation & Run
 ```bash
-git clone https://github.com/yourusername/U.S.-States-Game.git
+git clone https://github.com/akirayumeno/U.S.-States-Game.git
 cd U.S.-States-Game
 python main.py
 ```
